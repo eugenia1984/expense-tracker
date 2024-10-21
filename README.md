@@ -15,3 +15,27 @@ An expense tracker little app to practice VUE.js version 3 and composition API.
 - <img width="28" height="28" src="https://img.icons8.com/fluency/28/vuejs.png" alt="vuejs"/> Vue.js (version 3 with composition API)
 
 ---
+
+## Commands:
+
+- Project Setup
+
+```sh
+npm install
+```
+
+- Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+And see the app locally at: [http://localhost:5173/](http://localhost:5173/)
+
+- Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+---
