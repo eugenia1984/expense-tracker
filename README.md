@@ -2,6 +2,14 @@
 
 An expense tracker little app to practice VUE.js version 3 and composition API.
 
+You can:
+
+... add a new transaction
+
+... delete an existing transaction
+
+![image](https://github.com/user-attachments/assets/14e1162d-1e0d-43db-bbaf-7010a3318934)
+
 ---
 
 ## Technologies:
